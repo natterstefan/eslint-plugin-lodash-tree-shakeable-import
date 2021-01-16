@@ -1,7 +1,7 @@
 {
-  "name": "eslint-playground",
+  "name": "eslint-plugin-lodash-tree-shakeable-import",
   "version": "0.0.1",
-  "description": "A playground repository to create eslint rules",
+  "description": "Make sure your lodash imports are tree-shakeable.",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf lib",

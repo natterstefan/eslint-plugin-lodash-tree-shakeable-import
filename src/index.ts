@@ -1,7 +1,7 @@
-import noLiteral from './rules/no-literal'
+import rule from './rules/no-lodash-named-imports'
 
 export = {
   rules: {
-    'no-literal': noLiteral,
+    'no-lodash-named-imports': rule,
   },
 }
